@@ -37,12 +37,12 @@ The datasets are also merged to create a combined catalysis dataset, which is us
 
 ### 3. Bayesian Optimization
 
-This notebook adapts the Bayesian Optimization code from class by:
+This notebook adapts the Bayesian Optimization code from class (see: https://colab.research.google.com/github/schwallergroup/ai4chem_course/blob/main/notebooks/10%20-%20Bayesian%20optimization/Buchwald-Hartwig-BO.ipynb#scrollTo=rcUMHxFXZ6Bz) by:
 
 - Using an RBF kernel
 - Constructing a design space around the ten experimental points with the highest reaction rates
 
-The objective is to explore efficient optimization strategies for catalytic performance in an experimental settings with little data.
+The objective is to explore efficient optimization strategies in an experimental setting with little data.
 
 ---
 
